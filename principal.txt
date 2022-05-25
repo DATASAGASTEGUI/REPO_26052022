@@ -1,1 +1,4 @@
 añadir una línea
+
+añadir linea principal.txt desde version1
+
